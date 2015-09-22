@@ -272,7 +272,7 @@
 		}
 
 		100% {
-			opacity: 1;
+			opacity: 0.6;
 		}
 	}
 
@@ -282,7 +282,7 @@
 		}
 
 		100% {
-			opacity: 1;
+			opacity: 0.6;
 		}
 	}
 
@@ -292,7 +292,7 @@
 		}
 
 		100% {
-			opacity: 1;
+			opacity: 0.6;
 		}
 	}
 
@@ -302,13 +302,13 @@
 		}
 
 		100% {
-			opacity: 1;
+			opacity: 0.6;
 		}
 	}
 
 	#overlay {
-		-moz-animation: overlay 0.5s 0.5s forwards;
-		-webkit-animation: overlay 0.5s 0.5s forwards;
+		-moz-animation: overlay 1.5s 1.5s forwards;
+		-webkit-animation: overlay 1.5s 1.5s forwards;
 		-ms-animation: overlay 0.5s 0.5s forwards;
 		animation: overlay 1.5s 1.5s forwards;
 		background-attachment: fixed, fixed;
@@ -509,7 +509,7 @@
 		position: relative;
 		text-align: center;
 		top: -1em;
-		vertical-align: top;
+		vertical-align: center;
 		width: 90%;
 	}
 
