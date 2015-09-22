@@ -510,7 +510,6 @@
 		text-align: center;
 		top: -1em;
 		vertical-align: top;
-		margin-top: 8.5em;
 		width: 90%;
 	}
 
@@ -847,7 +846,7 @@
 		}
 
 		#bg {
-			background-size: 750px auto;
+			background-size: 1000px auto;
 			width: 2250px;
 		} }
 
@@ -933,7 +932,7 @@
 		}
 
 		#bg {
-			background-size: 300px auto;
+			background-size: 500px auto;
 			width: 900px;
 		}
 
@@ -1031,7 +1030,7 @@
 		}
 
 		#bg {
-			background-size: 412.5px auto;
+			background-size: 490px auto;
 			width: 1237.5px;
 		}
 
